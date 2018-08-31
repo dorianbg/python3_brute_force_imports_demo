@@ -1,7 +1,7 @@
 We all know how painful Python imports can be. 
 I made this repository to show the simplest way to make Python imports work.
 
-It is very much inspired with this post:
+It is very much inspired with this discussion:
 https://stackoverflow.com/questions/4383571/importing-files-from-different-folder
 
 Generally you need to control: 
